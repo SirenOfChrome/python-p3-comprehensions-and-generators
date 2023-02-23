@@ -5,3 +5,5 @@ def return_evens(num_list):
 
 def make_exclamation(sentence_list):
     pass
+
+#GDC1
